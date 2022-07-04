@@ -10,4 +10,4 @@ I'm front end engineer and have also supported as Site Reliability Engineer and 
 
 
 #
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=mishrarajat.visitor-badge&left_color=black&right_color=yellow)]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mishrarajat.visitor-badge&left_color=black&right_color=yellow)
