@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+I'm front end engineer and have also supported as Site Reliability Engineer and Backend developer. 
+## 🔭 Tech Stack
+ [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,angular,ts,docker,kubernetes)](https://skills.thijs.gg)
+ 
+ ##
+  [![StackOverflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://skills.thijs.gg)[1]
+  
+  [1]: https://stackoverflow.com/users/3263141/rajat (Stackoverflow profile)
 <!--
 **mishrarajat/mishrarajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
